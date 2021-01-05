@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="rb1">C</string>
+    <string name="rb2">C++</string>
+    <string name="rb3">JAVA</string>
+    <string name="rb4">PYTHON</string>
+    <string name="textView">Select Language Known</string>
+    <string name="button">Show Result</string>
+</resources>
